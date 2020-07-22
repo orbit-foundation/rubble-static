@@ -1,0 +1,20 @@
+/*
+Feel free to replace this with your CSS.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+main {
+    text-align: center;
+}
+
+code {
+    background: rgb(228, 228, 228);
+    font-size: 1.2rem;
+    padding-left: 3px;
+    padding-right: 3px;
+}
